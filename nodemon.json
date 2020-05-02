@@ -1,0 +1,8 @@
+{
+
+    "env": {
+
+        "MongoPass": "hicham",
+        "JWT_KEY": "secret"
+    }
+}
